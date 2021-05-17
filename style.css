@@ -40,6 +40,7 @@ strong {
   background-color: var(--color-white);
   max-width: 400px;
   font-size: 1.25rem;
+  line-height: 1.4;
 }
 
 .title {
